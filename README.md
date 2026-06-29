@@ -14,7 +14,7 @@ A modern, responsive, and functional calculator built using HTML, CSS, and JavaS
 - JavaScript
 
 ## Live Demo
-Check out the live version of the project here: [Insert your GitHub Pages link here]
+Check out the live version of the project here: [https://prushti-patel.github.io/CodeAlpha_calculator/]
 
 ## How to Run
 1. Clone this repository or download the source code as a ZIP file.
